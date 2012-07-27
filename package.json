@@ -1,0 +1,14 @@
+{
+  "name": "NodeChat",
+  "subdomain": "nodechat.soroushjp",
+  "scripts": {
+    "start": "lesson7.js"
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "socket.io": "0.9.x"
+  }
+}
